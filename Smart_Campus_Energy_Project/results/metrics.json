@@ -1,0 +1,16 @@
+{
+  "random_forest": {
+    "MAE_kWh": 3.3174883301481937,
+    "RMSE_kWh": 6.673049318118666,
+    "R2": 0.7627399365762086
+  },
+  "previous_day_baseline": {
+    "MAE_kWh": 4.868576709796673,
+    "RMSE_kWh": 9.684753554770294,
+    "R2": 0.5002496342277061
+  },
+  "train_rows": 10792,
+  "test_rows": 2705,
+  "test_start": "2025-04-08 09:00:00",
+  "evaluation": "Chronological holdout, rolling one-hour-ahead predictions with actual earlier test observations available."
+}

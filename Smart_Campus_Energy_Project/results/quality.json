@@ -1,0 +1,9 @@
+{
+  "input_rows": 14400,
+  "invalid_keys_removed": 0,
+  "duplicate_rows_removed": 0,
+  "invalid_or_missing_energy": 70,
+  "missing_hour_rows_added": 0,
+  "output_rows": 14400,
+  "unfilled_energy_rows": 0
+}

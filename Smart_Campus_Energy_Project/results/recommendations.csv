@@ -1,0 +1,6 @@
+building,review_alerts,flagged_positive_excess_kwh,scenario_recoverable_kwh,scenario_saving_inr,action
+Academic Block,2,89.0,22.25,177.99,"Review alert timestamps, occupancy, HVAC schedules and equipment; confirm waste before taking action."
+Administration,2,65.06,16.27,130.13,"Review alert timestamps, occupancy, HVAC schedules and equipment; confirm waste before taking action."
+Hostel,24,283.72,70.93,567.45,"Review alert timestamps, occupancy, HVAC schedules and equipment; confirm waste before taking action."
+Laboratory,4,204.68,51.17,409.37,"Review alert timestamps, occupancy, HVAC schedules and equipment; confirm waste before taking action."
+Library,4,127.09,31.77,254.18,"Review alert timestamps, occupancy, HVAC schedules and equipment; confirm waste before taking action."
